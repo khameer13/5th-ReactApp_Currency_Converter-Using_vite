@@ -3,7 +3,7 @@
 }
 
 .body{
-  background-image: url("backGround.webp");
+  background-image: url("/backGround.webp");
   background-position: center;
   background-size: cover;
   height: 850px;
@@ -28,7 +28,7 @@
 }
 
 .swapbtn{
-  background-image: url("swap.png");
+  background-image: url("/swap.png");
   background-position: center;
   background-size: cover;
   border-radius: 50% ;
